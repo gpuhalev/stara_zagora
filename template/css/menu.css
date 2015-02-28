@@ -1,0 +1,158 @@
+	/*Menu left*/	
+		
+	
+	
+	#leftMenu{
+		width:154px;
+		padding-left:22px;
+		padding-top:20px;
+		float:left;
+	}
+	
+	
+	
+	
+	/*
+	General rules
+	*/
+
+	#dhtmlgoodies_slidedown_menu li{
+		margin:0px;
+		padding:0px;
+		list-style-type:none;
+		position:relative;	
+		width:154px;	
+	}
+	#dhtmlgoodies_slidedown_menu ul{
+		margin:0px;
+		padding:0px;
+		position:relative;
+
+	}
+
+	#dhtmlgoodies_slidedown_menu div{
+		margin:0px;
+		padding:0px;
+	}
+	/* 	Layout CSS */
+	#dhtmlgoodies_slidedown_menu{		
+		width:154x;	
+	}
+
+	/* All A tags - i.e menu items. */
+	#dhtmlgoodies_slidedown_menu a{
+		
+	font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+	font-weight:bold;
+	color:#444444;
+	height:18px;
+	text-decoration:none;
+	background-image:url(../icons/navigation-left.gif);
+	background-repeat:no-repeat;
+	background-position: 0 50% ;
+	display:block;
+	clear:both;
+	
+		
+	}
+
+		
+	
+	#dhtmlgoodies_slidedown_menu a:hover, #dhtmlgoodies_slidedown_menu a:focus {
+		
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#f95817;
+	height:18px;
+	text-decoration:none;
+	background-image:url(../icons/navigation-left-over.gif);
+	background-repeat:no-repeat;
+	background-position: 0 50% ;
+	display:block;
+	clear:both;
+	
+		
+
+	}
+
+	
+	/*
+	A tags 
+	*/
+	#dhtmlgoodies_slidedown_menu .slMenuItem_depth1{	/* Main menu items */
+		padding-top:2px;
+		margin-top:2px;
+		padding-left:20px;
+		font-weight:bold;
+	}	
+	
+	
+	#dhtmlgoodies_slidedown_menu a:hover.slMenuItem_depth1{	/* Main menu items */
+		padding-top:2px;
+		margin-top:2px;
+		padding-left:20px;
+		font-weight:bold;
+	}	
+	
+	
+	
+	
+	#dhtmlgoodies_slidedown_menu .slMenuItem_depth2{	/* Sub menu items */
+		
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:11px;
+		font-weight:normal;
+		color:#444444;
+		height:18px;
+		background-image:url(../icons/sub-navigation-left-open.gif);
+		padding-left:20px;
+		margin-top:2px;
+	
+		
+	}
+
+
+
+#dhtmlgoodies_slidedown_menu a:hover.slMenuItem_depth2, #dhtmlgoodies_slidedown_menu a:focus.slMenuItem_depth2 {	/* Sub menu items */
+		
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:11px;
+		font-weight:normal;
+		color:#f95817;
+		height:18px;
+		background-image:url(../icons/sub-navigation-left-open-over.gif);
+		padding-left:20px;
+		margin-top:2px;
+	
+		
+	}
+
+
+
+	/* UL tags, i.e group of menu utems. 
+	It's important to add style to the UL if you're specifying margins. If not, assign the style directly
+	to the parent DIV, i.e. 
+	
+	#dhtmlgoodies_slidedown_menu .slideMenuDiv1
+	
+	instead of 
+	
+	#dhtmlgoodies_slidedown_menu .slideMenuDiv1 ul
+	*/
+	
+	#dhtmlgoodies_slidedown_menu .slideMenuDiv1 ul{
+		padding:0px;
+		margin:0px;
+	}
+	#dhtmlgoodies_slidedown_menu .slideMenuDiv2 ul{
+				padding:0px;
+				margin:0px;
+	}
+	#dhtmlgoodies_slidedown_menu .slideMenuDiv3 ul{
+			padding:0px;
+			margin:0px;
+	}
+	
+	
