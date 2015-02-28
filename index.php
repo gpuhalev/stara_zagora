@@ -4,8 +4,9 @@
 <head>
   <?php 
     include 'header.html';
+	$name = basename(__FILE__, '.php'); ;
   ?>
-  <title>Home | European Athletics Team Championships 2nd League Stara Zagora 2015</title>  
+  <title>Home | European Athletics Team Championships 2nd League Stara Zagora 2015</title>
 </head>
 
 <body>
