@@ -5,7 +5,7 @@
   <?php 
     include 'header.html';
   ?>
-  <title>Free HTML5 Templates</title>  
+  <title>Home | European Athletics Team Championships 2nd League Stara Zagora 2015</title>  
 </head>
 
 <body>
