@@ -22,15 +22,59 @@
                         <div class="content_container">
                           <h3>Entries</h3>
                           <p class="read_more" name="entries">Read more</p>
-						  <p class="hidden" name="entries"></p>
-                        </div><!--close content_container-->
+                        </div>
                     </td>
-
                     <td>   
                         <div class="content_container">
                             <h3>Competition Regulations</h3>
                             <p class="read_more" name="regulations">Read more</p>
-                            <p class="hidden" name="regulations"></p>
+                    	</div>
+                    </td>
+                 </tr>
+                 <tr>
+                    <td>
+                    	<div class="content_container">
+						  <div class="hidden" name="entries">
+                          	  <div class="flag_name">
+                                  <img src="images/countries/bul.png"><br>
+                                  BULGARIA
+                              </div>
+                              <div class="flag_name">
+                                  <img src="images/countries/cro.png"><br>
+                                  CROATIA
+                              </div>
+                              <div class="flag_name">
+                                  <img src="images/countries/cyp.png"><br>
+                                  CYPRUS
+                              </div>
+                              <div class="flag_name">
+                                  <img src="images/countries/den.png"><br>
+                                  DENMARK
+                              </div>
+                              <div class="flag_name">
+                                  <img src="images/countries/hun.png"><br>
+                                  HUNGARY
+                              </div>
+                              <div class="flag_name">
+                                  <img src="images/countries/ice.png"><br>
+                                  ICELAND
+                              </div>
+                              <div class="flag_name">
+                                  <img src="images/countries/srb.png"><br>
+                                  SERBIA
+                              </div>
+                              <div class="flag_name">
+                                  <img src="images/countries/slo.png"><br>
+                                  SLOVENIA
+                              </div>
+                          </div>
+                        </div><!--close content_container-->
+                    </td>
+
+                    
+                    <td>   
+                        <div class="content_container">
+                            <div class="hidden" name="regulations"></p>
                         </div><!--close content_container-->
                     </td>
                 </tr>
@@ -40,15 +84,25 @@
                         <div class="content_container">
                           <h3>Official Implements List</h3>
                           <p class="read_more" name="implements">Read more</p>
-                          <p class="hidden" name="implements"></p>
+                        </div>
+                     </td>
+                     <td>
+	                     <div class="content_container">
+                          <h3>Team Hotels</h3>
+                          <p class="read_more" name="hotels">Read more</p>
+                          </div>
+                     </td>
+                 </tr>
+                 <tr>    
+                     <td>
+                        <div class="content_container">
+                          <div class="hidden" name="implements"></p>
                         </div><!--close content_container-->
                     </td>
 
                     <td>
-                        <div class="content_container">
-                          <h3>Team Hotels</h3>
-                          <p class="read_more" name="hotels">Read more</p>
-                          <p class="hidden" name="hotels"></p>
+                    	<div class="content_container">
+                          <div class="hidden" name="hotels"></p>
                         </div><!--close content_container-->	 
                     </td>
                 </tr>

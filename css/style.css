@@ -27,8 +27,12 @@ p.read_more{
 	cursor:pointer;
 	text-decoration:underline;
 }
-p.hidden{
+.hidden{
 	display:none;
+}
+.hidden img{
+	border: 1px solid #ccc;
+	width: 80px;
 }
 img
 { border: 0;}
@@ -414,3 +418,9 @@ ul img {
   color: #FFF;
   text-shadow: 1px 1px #000;}
  
+.flag_name{
+	width:95px;
+	float:left;
+	text-align:center;
+	margin-bottom:10px;
+}
