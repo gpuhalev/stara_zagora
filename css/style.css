@@ -22,7 +22,14 @@ p
   text-shadow: 1px 1px #FFF;
   line-height: 1.7em;
   font-size: 100% }
-
+  
+p.read_more{
+	cursor:pointer;
+	text-decoration:underline;
+}
+p.hidden{
+	display:none;
+}
 img
 { border: 0;}
 

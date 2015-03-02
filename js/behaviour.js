@@ -6,5 +6,5 @@ $( document ).ready(function(){
 		if ($(this).prop('href') == window.location.href) {
 		  $(this).addClass('current');
 		}
-  	});	
+  	});
 })
