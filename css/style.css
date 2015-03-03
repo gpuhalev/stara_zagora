@@ -27,19 +27,35 @@ p.read_more{
 	cursor:pointer;
 	text-decoration:underline;
 }
+p.hotel_name{
+	color:#F95817;
+}
+p.organisation_title{
+	color:#F95817;
+	margin-top:10px;
+	font-size:14px;
+	font-weight:bold;
+}
 .hidden{
 	display:none;
+	padding-left:5px;
+	overflow:hidden;
 }
-.hidden img{
+img.country{
 	border: 1px solid #ccc;
-	width: 80px;
+	width: 67px;
+	height: 41px;
+}
+img.hotel{
+	border: 1px solid #ccc;
+	width:300px;
 }
 img
 { border: 0;}
 
 h1, h2, h3, h4, h5, h6 
 { font: normal 175% Arial, Helvetica, sans-serif;
-  color: #F95817;;
+  color: #F95817;
   text-shadow: 0px -1px 0px #fff;
   letter-spacing: -1px;
   margin: 0 0 10px 0;}
@@ -55,7 +71,7 @@ h4, h5, h6
 { margin: 0;
   padding: 0 0 0px 0;
   font: normal 150% Arial, Helvetica, sans-serif;
-  color: #FFF;
+  color: #000;
   line-height: 1.5em;}
 
 h5, h6
@@ -246,6 +262,10 @@ ul#nav li:hover a
   margin-top: 20px;
   margin-bottom: 20px;}
  
+.content_item .content_item{
+	margin-left:15px;
+}
+
 .content_imagetext
 { width: 680px;
   padding: 5px;
@@ -287,7 +307,9 @@ footer
   -webkit-border: 15px 15px 15px 15px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  margin-bottom:10px; 
+}
 
 footer a, footer a:hover
 { text-shadow: 1px 1px #FFF;
@@ -419,8 +441,23 @@ ul img {
   text-shadow: 1px 1px #000;}
  
 .flag_name{
-	width:95px;
+	width:75px;
 	float:left;
 	text-align:center;
-	margin-bottom:10px;
+	margin-bottom:20px;
+	margin-left:2px;
+}
+
+#organisation td{
+
+	padding:5px 0px;
+	font-size:14px;
+}
+#organisation td.last{
+	border-bottom: none;
+	padding-bottom:40px;
+}
+hr.teams{
+	color:#F79F00;
+	
 }

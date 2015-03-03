@@ -15,7 +15,7 @@
 	  <div id="content">
         <div class="content_item">
 		  <h1>Travel</h1> 
-          
+          <p>Coming soon...</p>
 		</div><!--close content_item-->
       </div><!--close content-->   
 	</div><!--close site_content-->  	

@@ -16,6 +16,9 @@
 	  <div id="content">
         <div class="content_item">
 		  <h1>Timetable</h1>   
+          <p style="margin-top:20px;">
+          	Coming soon...
+          </p>
 		</div><!--close content_item-->
       </div><!--close content-->   
 	</div><!--close site_content-->  	
