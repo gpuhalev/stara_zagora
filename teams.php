@@ -136,7 +136,29 @@
                                     Tel: +359 42 611 100<br>
                                     E-mail: magi_group@abv.bg<br>
                                     <a href="http://www.merianpalace.com/" target="_blank">http://www.merianpalace.com/</a>
-                                </p>
+                                </p><br>
+                                
+                                <p><strong>Financial Conditions</strong></p>
+                                <p>According to European Athletics Regulations accommodation and full board of participating teams for a maximum of 25 (twenty five) male athletes, 25 (twenty five) female athletes and 13 (thirteen) officials for 4 days will be paid by European Athletics.</p>
+                                <p>The following rates (per person in full board) must be paid by the Member Federations for team members above the previously mentioned quota and for additional days:</p>
+                                <p>
+                                	<table border="1" cellspacing="1" cellpadding="3" width="100%" bgcolor="#FCE48D">
+                                     <tbody><tr>
+                                     <td valign="center"><center><strong>Group</strong></center></td>
+                                     <td valign="center"><center><strong>Single </strong><br> (price/person)     </center></td>
+                                     <td valign="center"><center><strong>Double/Twin</strong><br> (price/person)     </center></td>
+                                   </tr>
+                                   <tr>
+                                     <td valign="center" height="43px"><center><strong>
+                                     Out of quota officials, out of period rate and additional single rooms<br></strong></center></td>
+                                     <td valign="center"><center><strong>95 Euro</strong></center></td>
+                                     <td valign="center"><center><strong>85 Euro</strong></center></td>
+                                   </tr>
+                               </tbody></table>
+                                Note: All prices include VAT</p>
+                                <p>Each team will be allocated a minimum number of the single room’s equivalent to 10% of the total number of athletes and in-quota officials entered in the Final Entries. Additional single rooms can be requested and will be given according to availability.  </p>
+                                
+                                
                               </div>
                           </div>	 
 		</div><!--close content_item-->

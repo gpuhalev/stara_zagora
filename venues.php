@@ -16,7 +16,11 @@
 	  <div id="content">
         <div class="content_item">
 		  <h1>Venues</h1> 
-          <p>Coming soon...</p>
+          <p><h3>"Beroe" Stadium</h3></p>
+          <img src="images/venue/Stadium_Beroe_Complete.jpg" class="venue">
+          <img src="images/venue/Stadium_Beroe 2.jpg" class="venue">
+          <img src="images/venue/Stadium_Beroe 3.jpg" class="venue">
+          <img src="images/venue/Stadium Beroe Ivet-Lalova.jpg" class="venue">
 		</div><!--close content_item-->
       </div><!--close content-->   
 	</div><!--close site_content-->  	

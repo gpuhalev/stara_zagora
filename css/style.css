@@ -52,6 +52,11 @@ img.hotel{
 }
 img
 { border: 0;}
+img.venue{
+	width:500px;
+	border:1px solid #ccc;
+	margin-bottom:5px;
+}
 
 h1, h2, h3, h4, h5, h6 
 { font: normal 175% Arial, Helvetica, sans-serif;
