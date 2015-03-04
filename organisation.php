@@ -46,7 +46,7 @@
                 
                 
                   <tr><td valign="top"><strong>Jury of Appeal</strong></td>
-                  <td>Jens Christian DrOsel (GER)</td>
+                  <td>Jens Christian Drosel (GER)</td>
                 </tr>
                 
                 <tr>
@@ -62,7 +62,7 @@
             <tbody>
                 <tr>
                   <td width="250" valign="top"><strong>Honorary President</strong></td>
-                  <td>Zhivko Todorov, Maor of Stara Zagora Municipality</td>
+                  <td>Zhivko Todorov, Mayor of Stara Zagora Municipality</td>
                 </tr>
                 
                   
