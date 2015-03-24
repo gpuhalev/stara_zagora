@@ -17,7 +17,7 @@
         <div class="content_item">
 		  <h1>Timetable</h1>   
           <p style="margin-top:20px;">
-          	Coming soon...
+          	<iframe src="pdf/ETCH2015_2nd_League_Timetable.pdf" width="95%" height="800px"><strong><a href="pdf/ETCH2015_2nd_League_Timetable.pdf" target="_blank">View HERE</a></strong></iframe>
           </p>
 		</div><!--close content_item-->
       </div><!--close content-->   
