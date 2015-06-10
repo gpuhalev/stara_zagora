@@ -16,18 +16,8 @@
 	  <div id="content">
         <div class="content_item">
 		  <h1>Teams</h1> 
-						
-						<div class="content_item">
-                          <h3>Team Manual</h3>
-                          <p class="read_more" name="teamManual">Read more</p>
-                          
-                          <div class="hidden" name="teamManual">
-                          	<iframe src="pdf/ETCH 2L Stara Zagora 2015 Team Manual.pdf" target="_blank"  width="95%" height="800px"><strong><a href="pdf/ETCH 2L Stara Zagora 2015 Team Manual.pdf" target="_blank">View HERE</a></strong></iframe>
-                          </div>
-                        </div>
-						
+
                         <div class="content_item">
-						  <hr class="teams"><br><br>
                           <h3>Entries</h3>
                           <p class="read_more" name="entries">Read more</p>
                             
@@ -107,23 +97,10 @@
                           <p class="read_more" name="implements">Read more</p>
                           
                           <div class="hidden" name="implements">
-                          	<iframe src="pdf/Implemens ETCH Stara Zagora 2015.pdf" target="_blank"  width="95%" height="800px"><strong><a href="pdf/Implemens ETCH Stara Zagora 2015.pdf" target="_blank">View HERE</a></strong></iframe>
+                          	<p>Coming soon...</p>
                           </div>
                         </div>
                         
-
-                        <div class="content_item">
-                          <hr class="teams"><br><br>
-                            <h3>Lanes and starting order</h3>
-                            <p class="read_more" name="lanes">Read more</p>
-                      
-                        
-                            <div class="hidden" name="lanes">
-                              <iframe src="pdf/ETCH_2L-Lane_and Starting_Order.pdf" target="_blank"  width="95%" height="800px"><strong><a href="pdf/ETCH_2L-Lane_and Starting_Order.pdf" target="_blank">View HERE</a></strong></iframe>
-                            </div>
-                        </div>
-
-
 	                     <div class="content_item">
                          <hr class="teams"><br><br>
                           <h3>Team Hotels</h3>
@@ -151,13 +128,14 @@
                                     <a href="http://www.cityhotel-bg.com/" target="_blank">http://www.cityhotel-bg.com/</a>
                                 </p><br>
                                 
-                                <p class="hotel_name">Hotel Art Complex</p>
+                                <p class="hotel_name">Hotel MERIAN PALACE</p>
                                 <p>
-                                    <img src="images/hotels/Art Complex.jpg" class="hotel"><br>
-                                    1, Shampion Str.<br>
+                                    <img src="images/hotels/Merian Palace.jpg" class="hotel"><br>
+                                    8, Ruski blvd<br>
                                     6000 Stara Zagora, Bulgaria<br>
-                                    Tel : +359 42 666 646<br>
-                                    <a href="http://artcomplex-stz.com" target="_blank">http://artcomplex-stz.com</a>
+                                    Tel: +359 42 611 100<br>
+                                    E-mail: magi_group@abv.bg<br>
+                                    <a href="http://www.merianpalace.com/" target="_blank">http://www.merianpalace.com/</a>
                                 </p><br>
                                 
                                 <p><strong>Financial Conditions</strong></p>
