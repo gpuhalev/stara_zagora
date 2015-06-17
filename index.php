@@ -18,7 +18,7 @@
 		  <h1>Home</h1>
           <div class="important_item">
             <h1>LIVE TV COVERAGE</h1>
-            <h3>You can watch the stream free <br><a href="http://sportmedia.tv/event.php?id=4624" target="_blank">here</a> and <a href="http://sportmedia.tv/event.php?id=4625" target="_blank">here</a></h3>
+            <h3>You can watch the competition<br><a href="http://sportmedia.tv/event.php?id=4624" target="_blank">here</a> and <a href="http://sportmedia.tv/event.php?id=4625" target="_blank">here</a></h3>
           </div>
           <br>
           <hr style="width:100%;"></hr><br><br>
