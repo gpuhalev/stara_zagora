@@ -94,6 +94,11 @@ a, a:hover
 a:hover
 { text-decoration: underline;}
 
+h3 a{
+  color: #F95817;
+  text-decoration: underline;
+}
+
 ul
 { margin: 2px 0 22px 30px;
   line-height: 1.7em;
@@ -293,6 +298,34 @@ ul#nav li:hover a
   padding: 5px;
   margin: 20px 10px 0 0;
   float: left;}
+
+.important_item{ 
+  width: 680px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: #eee;
+  padding:10px 0px;
+}
+
+.important_item h1,h3{
+  color: black;
+  text-shadow:none;
+}
+
+.important_item h1{
+  font: bold 255% Arial, Helvetica, sans-serif;;
+}
+
+.important_item h3{
+  font: bold 175% Arial, Helvetica, sans-serif;;
+}
+
+.important_item a:hover{
+  color: black;
+}
   
 footer
 { width: 940px;

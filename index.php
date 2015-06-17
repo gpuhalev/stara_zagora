@@ -15,7 +15,13 @@
     ?>
 	  <div id="content">
         <div class="content_item">
-		  <h1>Home</h1>  <br>
+		  <h1>Home</h1>
+          <div class="important_item">
+            <h1>LIVE TV COVERAGE</h1>
+            <h3>You can watch the stream free <br><a href="http://sportmedia.tv/event.php?id=4624" target="_blank">here</a> and <a href="http://sportmedia.tv/event.php?id=4625" target="_blank">here</a></h3>
+          </div>
+          <br>
+          <hr style="width:100%;"></hr><br><br>
           <img src="images/DKaramarinov 2014.jpg" width="200px" style="float:left; margin-right:10px; border:1px solid #000;">
           <p><strong>Dear friends of athletics,</strong></p>
           <p>The European Athletics Team Championships 2nd League will be held on 20-21 June 2015 in the city of Stara Zagora, Bulgaria. Eight top level teams - Croatia, Cyprus, Denmark, Hungary, Iceland, Serbia,Slovenia and Bulgaria are going to struggle for the first two places that will promote them to the First league in 2017.</p>
