@@ -113,7 +113,8 @@ ol li
 
 #main, header, #banner, #menubar, #site_content, footer, #content_grey, nav
 { margin-left: auto; 
-  margin-right: auto;}
+  margin-right: auto;
+}
 
 #main
 { background: transparent;}
@@ -270,7 +271,9 @@ ul#nav li:hover a
 .content_item
 { width: 680px;
   margin-top: 20px;
-  margin-bottom: 20px;}
+  margin-bottom: 20px;
+  font-size: 120%;
+}
  
 .content_item .content_item{
 	margin-left:15px;
@@ -484,6 +487,7 @@ ul img {
 	text-align:center;
 	margin-bottom:20px;
 	margin-left:2px;
+  font-size: 80%;
 }
 
 #organisation td{
@@ -497,5 +501,4 @@ ul img {
 }
 hr.teams{
 	color:#F79F00;
-	
 }
