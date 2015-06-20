@@ -69,60 +69,59 @@
                             </div>
                         <hr class="teams"><br><br>
 						            <h3>Results</h3>
-                          <p class="read_more" name="results">Read more</p>
-                          
-                          <div class="hidden" name="results">
-                            <p>Coming soon...</p>
-                          </div>
-                          <!--
-                          <p class="read_more" name="startListsMen">Men</p>
-                            <div class="hidden" name="startListsMen">
-                              <p><a href="results/men_results/100.pdf">100m</a></p>
-                              <p><a href="results/men_results/100B.pdf">100m B</a></p>
-                              <p><a href="results/men_results/200.pdf">200m</a></p>
-                              <p><a href="results/men_results/400.pdf">400m</a></p>
-                              <p><a href="results/men_results/800.pdf">800m</a></p>
-                              <p><a href="results/men_results/1500.pdf">1500m</a></p>
-                              <p><a href="results/men_results/3000.pdf">3000m</a></p>
-                              <p><a href="results/men_results/5000.pdf">5000m</a></p>
-                              <p><a href="results/men_results/110h.pdf">110m Hurdles</a></p>
-                              <p><a href="results/men_results/400h.pdf">400m Hurdles</a></p>
-                              <p><a href="results/men_results/3000sc.pdf">3000m Steeplechase</a></p>
-                              <p><a href="results/men_results/4x400.pdf">4x400m Relay</a></p>
-                              <p><a href="results/men_results/4x100.pdf">4x100m Relay</a></p>
-                              <p><a href="results/men_results/high jump.pdf">High Jump</a></p>
-                              <p><a href="results/men_results/pole vault.pdf">Pole Vault</a></p>
-                              <p><a href="results/men_results/long jump.pdf">Long Jump</a></p>
-                              <p><a href="results/men_results/triple jump.pdf">Triple Jump</a></p>
-                              <p><a href="results/men_results/shot put.pdf">Shot Put</a></p>
-                              <p><a href="results/men_results/discus throw.pdf">Discus Throw</a></p>
-                              <p><a href="results/men_results/hammer throw.pdf">Hammer Throw</a></p>
-                              <p><a href="results/men_results/javelin throw.pdf">Javelin Throw</a></p>
+                           <p class="read_more" name="resultsMen">Men</p>
+                            <div class="hidden" name="resultsMen">
+                              <p><a target="_blank" href="results/men_results/100B_men.pdf">100m B</a></p>
                             </div>
 
-                            <p class="read_more" name="startListsWomen">Women</p>
-                            <div class="hidden" name="startListsWomen">
-                              <p><a href="results/women_results/100.pdf">100m</a></p>
-                              <p><a href="results/women_results/100B.pdf">100m B</a></p>
-                              <p><a href="results/women_results/200.pdf">200m</a></p>
-                              <p><a href="results/women_results/400.pdf">400m</a></p>
-                              <p><a href="results/women_results/800.pdf">800m</a></p>
-                              <p><a href="results/women_results/1500.pdf">1500m</a></p>
-                              <p><a href="results/women_results/3000.pdf">3000m</a></p>
-                              <p><a href="results/women_results/5000.pdf">5000m</a></p>
-                              <p><a href="results/women_results/100h.pdf">100m Hurdles</a></p>
-                              <p><a href="results/women_results/400h.pdf">400m Hurdles</a></p>
-                              <p><a href="results/women_results/3000sc.pdf">3000m Steeplechase</a></p>
-                              <p><a href="results/women_results/4x400.pdf">4x400m Relay</a></p>
-                              <p><a href="results/women_results/4x100.pdf">4x100m Relay</a></p>
-                              <p><a href="results/women_results/high jump.pdf">High Jump</a></p>
-                              <p><a href="results/women_results/pole vault.pdf">Pole Vault</a></p>
-                              <p><a href="results/women_results/long jump.pdf">Long Jump</a></p>
-                              <p><a href="results/women_results/triple jump.pdf">Triple Jump</a></p>
-                              <p><a href="results/women_results/shot put.pdf">Shot Put</a></p>
-                              <p><a href="results/women_results/discus throw.pdf">Discus Throw</a></p>
-                              <p><a href="results/women_results/hammer throw.pdf">Hammer Throw</a></p>
-                              <p><a href="results/women_results/javelin throw.pdf">Javelin Throw</a></p>
+                            <p class="read_more" name="resultsWomen">Women</p>
+                            <div class="hidden" name="resultsWomen">
+                              <p><a target="_blank" href="results/women_results/100B_women.pdf">100m B</a></p>
+                            </div>
+                          <!--
+                         
+                              <p><a target="_blank" href="results/men_results/100.pdf">100m</a></p>
+                              <p><a target="_blank" href="results/men_results/200.pdf">200m</a></p>
+                              <p><a target="_blank" href="results/men_results/400.pdf">400m</a></p>
+                              <p><a target="_blank" href="results/men_results/800.pdf">800m</a></p>
+                              <p><a target="_blank" href="results/men_results/1500.pdf">1500m</a></p>
+                              <p><a target="_blank" href="results/men_results/3000.pdf">3000m</a></p>
+                              <p><a target="_blank" href="results/men_results/5000.pdf">5000m</a></p>
+                              <p><a target="_blank" href="results/men_results/110h.pdf">110m Hurdles</a></p>
+                              <p><a target="_blank" href="results/men_results/400h.pdf">400m Hurdles</a></p>
+                              <p><a target="_blank" href="results/men_results/3000sc.pdf">3000m Steeplechase</a></p>
+                              <p><a target="_blank" href="results/men_results/4x400.pdf">4x400m Relay</a></p>
+                              <p><a target="_blank" href="results/men_results/4x100.pdf">4x100m Relay</a></p>
+                              <p><a target="_blank" href="results/men_results/high jump.pdf">High Jump</a></p>
+                              <p><a target="_blank" href="results/men_results/pole vault.pdf">Pole Vault</a></p>
+                              <p><a target="_blank" href="results/men_results/long jump.pdf">Long Jump</a></p>
+                              <p><a target="_blank" href="results/men_results/triple jump.pdf">Triple Jump</a></p>
+                              <p><a target="_blank" href="results/men_results/shot put.pdf">Shot Put</a></p>
+                              <p><a target="_blank" href="results/men_results/discus throw.pdf">Discus Throw</a></p>
+                              <p><a target="_blank" href="results/men_results/hammer throw.pdf">Hammer Throw</a></p>
+                              <p><a target="_blank" href="results/men_results/javelin throw.pdf">Javelin Throw</a></p>
+
+                            
+                              <p><a target="_blank" href="results/women_results/100.pdf">100m</a></p>
+                              <p><a target="_blank" href="results/women_results/200.pdf">200m</a></p>
+                              <p><a target="_blank" href="results/women_results/400.pdf">400m</a></p>
+                              <p><a target="_blank" href="results/women_results/800.pdf">800m</a></p>
+                              <p><a target="_blank" href="results/women_results/1500.pdf">1500m</a></p>
+                              <p><a target="_blank" href="results/women_results/3000.pdf">3000m</a></p>
+                              <p><a target="_blank" href="results/women_results/5000.pdf">5000m</a></p>
+                              <p><a target="_blank" href="results/women_results/100h.pdf">100m Hurdles</a></p>
+                              <p><a target="_blank" href="results/women_results/400h.pdf">400m Hurdles</a></p>
+                              <p><a target="_blank" href="results/women_results/3000sc.pdf">3000m Steeplechase</a></p>
+                              <p><a target="_blank" href="results/women_results/4x400.pdf">4x400m Relay</a></p>
+                              <p><a target="_blank" href="results/women_results/4x100.pdf">4x100m Relay</a></p>
+                              <p><a target="_blank" href="results/women_results/high jump.pdf">High Jump</a></p>
+                              <p><a target="_blank" href="results/women_results/pole vault.pdf">Pole Vault</a></p>
+                              <p><a target="_blank" href="results/women_results/long jump.pdf">Long Jump</a></p>
+                              <p><a target="_blank" href="results/women_results/triple jump.pdf">Triple Jump</a></p>
+                              <p><a target="_blank" href="results/women_results/shot put.pdf">Shot Put</a></p>
+                              <p><a target="_blank" href="results/women_results/discus throw.pdf">Discus Throw</a></p>
+                              <p><a target="_blank" href="results/women_results/hammer throw.pdf">Hammer Throw</a></p>
+                              <p><a target="_blank" href="results/women_results/javelin throw.pdf">Javelin Throw</a></p>
                             </div>
                         </div>-->
             </div>                        
