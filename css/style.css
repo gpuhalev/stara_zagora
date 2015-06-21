@@ -30,6 +30,9 @@ p.read_more{
 p.hotel_name{
 	color:#F95817;
 }
+p.inset{
+  padding-left: 20px;
+}
 p.organisation_title{
 	color:#F95817;
 	margin-top:10px;
